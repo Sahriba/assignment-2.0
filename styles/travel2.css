@@ -1,0 +1,19 @@
+.frame {
+    border: 1px solid #333;
+    padding: 0px;
+    margin: 0px;
+  }
+  .sec-1{
+    background-image: url('../Images/Group\ 13\ \(1\)\ \(1\).png');
+    width: 1170px;
+height: 500px;
+flex-shrink: 0;
+border-radius: 16px;
+}
+.navy{
+    display: inline-flex;
+padding: 10px 0px;
+justify-content: center;
+align-items: center;
+gap: 44px;
+}
